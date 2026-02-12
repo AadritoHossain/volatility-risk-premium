@@ -11,7 +11,7 @@ and volatility-driven market regimes.
 
 ---
 
-## 📌 Project Motivation
+## Project Motivation
 
 Volatility is a central source of risk in financial markets.
 Option-implied volatility reflects forward-looking market expectations,
@@ -24,7 +24,7 @@ for graduate study in Financial Engineering.
 
 ---
 
-## 🔍 Methodology Overview
+## Methodology Overview
 
 The analysis consists of the following components:
 
@@ -39,7 +39,7 @@ All core pricing and calibration routines are implemented from scratch in Python
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 volatility-risk-premium/
 │
@@ -51,7 +51,7 @@ volatility-risk-premium/
 
 ---
 
-## 📊 Key Empirical Findings
+## Key Empirical Findings
 
 - Implied volatility exhibits significant skew and curvature,
   indicating systematic deviations from the constant-volatility assumption.
@@ -63,16 +63,16 @@ volatility-risk-premium/
 
 ---
 
-## 📄 Technical Report
+## Technical Report
 
 A detailed description of the methodology, results, and interpretation
 is available in the technical report:
 
-👉 **[Download Technical Report (PDF)](report/final_report.pdf)**
+ **[Download Technical Report (PDF)](report/final_report.pdf)**
 
 ---
 
-## ⚙️ Installation and Setup
+## Installation and Setup
 
 Clone the repository:
 
